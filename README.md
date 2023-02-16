@@ -1,7 +1,7 @@
 ### Hi there 👋 I´m Davi Lucas!
 
 - 🔭 I’m currently working on pesonal projects
-- 🌱 I’m currently learning HTML, CSS, JS, NODE.JS, GIT
+- 🌱 I’m currently learning HTML, CSS, JS, DOM, NODE.JS, EJS, GIT, HTTP.
 - 🤔 I’m looking for help with how to realy study software development and how to scape the tutorial hell!!!!!
 - 💬 Ask me about How i´m going
 - 📫 How to reach me: daviluccas0705@gmail.com
