@@ -6,5 +6,5 @@
 - 💬 Ask me about How i´m going
 - 📫 How to reach me: daviluccas0705@gmail.com
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: I'm brazilian, i'm 18 years old, i like anime and manhwa, and i'm a self taught developer student!!!
+- ⚡ Fun fact: I'm brazilian, i'm 18 years old, i like anime and manhwa, and i'm a self taught web developer!!!
 
